@@ -15,4 +15,4 @@ HTML5: For structuring the content of the website.
 CSS3: For styling the website and making it responsive.
 JavaScript: For adding interactivity and handling dynamic content.
 
-## Checkout Link: []
+## Checkout Link: [https://angalaparamesh.github.io/Nostra/index.html]
